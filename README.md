@@ -14,3 +14,6 @@ Objective: Navigate through towers to score points.
 Restart: After a crash, press the spacebar to restart the game.
 Enjoy the game and aim for a high score!
 
+
+for the main code of game go to SCR folder and inside of it u will find Main.java and flappyplane.java these two files contain the java code for the game
+
